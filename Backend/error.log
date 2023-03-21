@@ -1,0 +1,1223 @@
+[17-Mar-2023 16:03:03 Europe/Berlin] PHP Warning:  fopen(debug/log.txt): failed to open stream: No such file or directory in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 261
+[17-Mar-2023 16:05:22 Europe/Berlin] PHP Warning:  fopen(debug/log.txt): failed to open stream: No such file or directory in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 261
+[17-Mar-2023 16:23:21 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:25 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:40 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:40 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:23:42 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 473
+[17-Mar-2023 16:34:13 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 440 and at least 6 expected in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(440): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(264): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(443): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\CRUD-CSV-PHP-master\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 142
+[17-Mar-2023 16:39:24 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 436 and exactly 6 expected in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(436): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(260): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(439): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\CRUD-CSV-PHP-master\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 141
+[17-Mar-2023 16:40:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 440 and at least 6 expected in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(440): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(264): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(443): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\CRUD-CSV-PHP-master\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 142
+[17-Mar-2023 16:40:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 440 and at least 6 expected in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(440): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(264): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(443): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\CRUD-CSV-PHP-master\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 142
+[17-Mar-2023 16:42:36 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 440 and at least 6 expected in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(440): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(264): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(443): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\CRUD-CSV-PHP-master\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\CRUD-CSV-PHP-master\functions.inc.php on line 142
+[17-Mar-2023 17:25:23 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 440 and at least 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(440): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(264): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(443): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:28:28 Europe/Berlin] PHP Notice:  Undefined variable: type in D:\xampp\htdocs\Backend\functions.inc.php on line 151
+[17-Mar-2023 17:28:28 Europe/Berlin] PHP Notice:  Undefined variable: model in D:\xampp\htdocs\Backend\functions.inc.php on line 153
+[17-Mar-2023 17:28:28 Europe/Berlin] PHP Notice:  Undefined variable: type in D:\xampp\htdocs\Backend\functions.inc.php on line 151
+[17-Mar-2023 17:28:28 Europe/Berlin] PHP Notice:  Undefined variable: model in D:\xampp\htdocs\Backend\functions.inc.php on line 153
+[17-Mar-2023 17:28:28 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:29:03 Europe/Berlin] PHP Notice:  Undefined variable: type in D:\xampp\htdocs\Backend\functions.inc.php on line 151
+[17-Mar-2023 17:29:03 Europe/Berlin] PHP Notice:  Undefined variable: type in D:\xampp\htdocs\Backend\functions.inc.php on line 151
+[17-Mar-2023 17:29:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:29:26 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:31:38 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:32:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:33:21 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:33:23 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:33:23 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 435 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(435): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(259): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(438): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:35:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:37:31 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:37:32 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:38:34 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:38:35 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:38:35 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:02 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:02 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:40:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:41:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:41:55 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 438 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(438): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(262): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(441): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:03 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:05 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:05 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:05 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:05 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:06 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:06 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:53 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:53 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:53 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:51:54 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 423 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(423): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(426): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:54:59 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:142
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 142
+[17-Mar-2023 17:55:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function get_all_names() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$brand in D:\xampp\htdocs\Backend\functions.inc.php on line 322
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:56:24 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 178
+[17-Mar-2023 17:57:07 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$brand in D:\xampp\htdocs\Backend\functions.inc.php on line 322
+[17-Mar-2023 17:58:26 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 416 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(416): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(419): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:59:45 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 419 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(419): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(423): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:59:45 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 419 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(419): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(423): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 17:59:58 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.inc.php on line 420 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.inc.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.inc.php(420): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.inc.php(247): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.inc.php(424): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.inc.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 141
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$type in D:\xampp\htdocs\Backend\info.php on line 21
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$brand in D:\xampp\htdocs\Backend\info.php on line 21
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$model in D:\xampp\htdocs\Backend\info.php on line 21
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$size in D:\xampp\htdocs\Backend\info.php on line 21
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\info.php on line 22
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\info.php on line 22
+[17-Mar-2023 18:06:49 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$description in D:\xampp\htdocs\Backend\info.php on line 22
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined index: tv_type in D:\xampp\htdocs\Backend\functions.inc.php on line 373
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$type in D:\xampp\htdocs\Backend\functions.inc.php on line 311
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$brand in D:\xampp\htdocs\Backend\functions.inc.php on line 312
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$model in D:\xampp\htdocs\Backend\functions.inc.php on line 313
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$size in D:\xampp\htdocs\Backend\functions.inc.php on line 314
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 315
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$sale_price in D:\xampp\htdocs\Backend\functions.inc.php on line 316
+[17-Mar-2023 18:15:12 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$description in D:\xampp\htdocs\Backend\functions.inc.php on line 317
+[20-Mar-2023 08:43:35 Europe/Berlin] PHP Notice:  Undefined variable: records in D:\xampp\htdocs\Backend\functions.inc.php on line 429
+[20-Mar-2023 08:44:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Using $this when not in object context in D:\xampp\htdocs\Backend\functions.inc.php:429
+Stack trace:
+#0 D:\xampp\htdocs\Backend\index.php(107): get_json_data()
+#1 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 429
+[20-Mar-2023 08:47:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot use object of type TVRecord as array in D:\xampp\htdocs\Backend\functions.inc.php:431
+Stack trace:
+#0 D:\xampp\htdocs\Backend\index.php(107): get_json_data()
+#1 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.inc.php on line 431
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 434
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Undefined variable: row_product in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:55:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.inc.php on line 435
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:16 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 08:58:32 Europe/Berlin] PHP Notice:  Undefined property: TVRecord::$price in D:\xampp\htdocs\Backend\functions.inc.php on line 438
+[20-Mar-2023 12:58:17 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method TVRecord::get_json_data() in D:\xampp\htdocs\Backend\functions.php:158
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.php(421): TVRecord->__construct('x79c7', 'LED', '226018', '23000', '43', 'samsung')
+#1 D:\xampp\htdocs\Backend\functions.php(250): {closure}(Resource id #3)
+#2 D:\xampp\htdocs\Backend\functions.php(425): open_file_context_manager(Resource id #3, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.php(21): get_all_records()
+#4 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.php on line 158
+[20-Mar-2023 14:08:25 Europe/Berlin] PHP Notice:  Undefined index: amount in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:08:25 Europe/Berlin] PHP Notice:  Undefined index: amount in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:09:16 Europe/Berlin] PHP Notice:  Undefined index: price in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:09:16 Europe/Berlin] PHP Notice:  Undefined index: price in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:13:12 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:14:17 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:17:06 Europe/Berlin] PHP Notice:  Undefined property: stdClass::$quantity in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:19:52 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:19:52 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:19:52 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:19:52 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:19:52 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:20:53 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:20:53 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:20:53 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:20:53 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:20:53 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:20:59 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:20:59 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:20:59 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:20:59 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:20:59 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:21:51 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:21:51 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:21:51 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:21:51 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:21:51 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:24:24 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:24:24 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:24:24 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:24:24 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:24:24 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:25:39 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:25:39 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:25:39 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:25:39 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:25:39 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:26:39 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\functions.php on line 378
+[20-Mar-2023 14:26:39 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\functions.php on line 379
+[20-Mar-2023 14:26:39 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\functions.php on line 380
+[20-Mar-2023 14:26:39 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\functions.php on line 381
+[20-Mar-2023 14:26:39 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\functions.php on line 382
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Undefined index: id in D:\xampp\htdocs\Backend\updateData.php on line 14
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:47:18 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Undefined index: id in D:\xampp\htdocs\Backend\updateData.php on line 14
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Undefined index: id in D:\xampp\htdocs\Backend\updateData.php on line 14
+[20-Mar-2023 14:48:47 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 14:49:29 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:49:29 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:49:29 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:49:29 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:49:29 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:50:23 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:50:23 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:50:23 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:50:23 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:50:23 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:51:43 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:51:43 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:51:43 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:51:43 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:51:43 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:53:09 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:53:09 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:53:09 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:53:09 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:53:09 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:53:21 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:53:21 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:53:21 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:53:21 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:53:21 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:53:32 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:53:32 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:53:32 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:53:32 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:53:32 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 14:54:37 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[20-Mar-2023 14:54:37 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[20-Mar-2023 14:54:37 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[20-Mar-2023 14:54:37 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[20-Mar-2023 14:54:37 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[20-Mar-2023 15:00:37 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:00:37 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:00:41 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:00:57 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:00:57 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:02:40 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:02:40 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:03:48 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:03:48 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:04:43 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:04:43 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:05:21 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:05:21 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:06:16 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:06:16 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:07:22 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:07:22 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:07:47 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:07:47 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:08:30 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:08:30 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:08:59 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:09:00 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:11:12 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:11:12 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:12:32 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:12:32 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:13:32 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:13:32 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:13:43 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:13:44 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:15:39 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:15:39 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:15:39 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:15:39 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:16:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:16:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:21:09 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:21:09 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:21:23 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:21:23 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:21:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:21:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:22:46 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:22:47 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:22:59 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:23:36 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 474
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 475
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 476
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 477
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 478
+[20-Mar-2023 15:24:21 Europe/Berlin] PHP Notice:  Undefined variable: i in D:\xampp\htdocs\Backend\api.php on line 479
+[20-Mar-2023 15:25:34 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:25:34 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:25:37 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:25:57 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:25:58 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Undefined index: x79c1 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Undefined index: x79c1 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Undefined index: x79c1 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Undefined index: x79c1 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:17 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:54 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:54 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:54 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:55 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:31:55 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:31:55 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Undefined index: xd200 in D:\xampp\htdocs\Backend\api.php on line 485
+[20-Mar-2023 15:32:09 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:33:34 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:34:27 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[20-Mar-2023 15:34:27 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[21-Mar-2023 06:40:32 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[21-Mar-2023 06:40:32 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[21-Mar-2023 06:40:32 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[21-Mar-2023 06:40:32 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[21-Mar-2023 06:40:32 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Undefined index: id in D:\xampp\htdocs\Backend\updateData.php on line 15
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\api.php on line 491
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 378
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 379
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 380
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 381
+[21-Mar-2023 06:40:42 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 382
+[21-Mar-2023 06:46:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method TVRecord::__toString() in D:\xampp\htdocs\Backend\index.php:112
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 112
+[21-Mar-2023 07:23:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function select() in D:\xampp\htdocs\Backend\index.php:74
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\Backend\index.php on line 74
+[21-Mar-2023 07:24:53 Europe/Berlin] PHP Notice:  Trying to get property 'id' of non-object in D:\xampp\htdocs\Backend\functions.php on line 472
+[21-Mar-2023 07:26:22 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 351
+[21-Mar-2023 07:26:22 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 352
+[21-Mar-2023 07:26:22 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 353
+[21-Mar-2023 07:26:22 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 354
+[21-Mar-2023 07:26:22 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 355
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 351
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 352
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 353
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 354
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 355
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'item' of non-object in D:\xampp\htdocs\Backend\api.php on line 351
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'name' of non-object in D:\xampp\htdocs\Backend\api.php on line 352
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 353
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 354
+[21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 355

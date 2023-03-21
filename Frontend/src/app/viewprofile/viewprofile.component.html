@@ -1,0 +1,26 @@
+<div class="sub-section-1" fxLayoutGap="50px">
+    <div class="main-body">
+    <div style="margin: 15px;justify-content: center;">
+      <div tabindex="0" class="e-card e-card-horizontal" style="width: 400px;padding: 2px;">
+          <img src="https://helpej2.syncfusion.com/angular/documentation/code-snippet/card/card-horizontal-cs1/Code.png" alt="Sample" style="height: 180px">
+          <div class="e-card-stacked">
+              <div class="e-card-header">
+                  <div class="e-card-header-caption">
+                      <div class="e-card-header-title">&nbsp;{{viewProfile?.name}}</div>
+                  </div>
+              </div>
+              <div class="e-card-content">
+                {{viewProfile?.email}}
+                ,{{viewProfile?.phone}}
+                <br><br>
+                {{member}}
+                <br><br>
+                <mat-slide-toggle [checked]="useDefault"  (change)="toggle($event)" >Paid Member</mat-slide-toggle>
+ 
+              </div>
+          </div>
+          
+      </div>
+    </div>
+     </div>
+  </div>  

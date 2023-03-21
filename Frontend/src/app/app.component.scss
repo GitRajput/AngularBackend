@@ -1,0 +1,198 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.main-body {
+  padding-top: 20px;
+  margin: 0 auto;
+  max-width: 1348px;
+  mat-form-field {
+    width: 100%;
+  }
+}
+
+.action {
+  display: flex;
+  gap: 5px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.demo-section + .demo-section {
+  margin-top: 16px;
+  text-align: center;;
+}
+.e-card .e-card-header {
+  font-family: cursive;
+  font-style: italic;
+}
+.e-card .e-card-content {
+  font-size: 20px;
+  color: gray;
+  line-height: initial;
+  font-weight: normal;
+}
+.e-card .e-card-separator {
+  padding-bottom: 30px;
+}
+// .e-card .e-card-image {
+//   background-image: url(images.png);
+//   background-color: yellow;
+//   height: 160px;
+// }
+.e-card .e-card-image .e-card-title {
+  font-family: cursive;
+  font-style: italic;
+}
+.e-card .e-card-header .e-card-header-image  {
+  height: 48px;
+  width: 48px;
+}
+.e-card .e-card-header .e-card-header-caption .e-card-header-title  {
+  font-size: large;
+  color: aquamarine;
+}
+.e-card .e-card-header .e-card-header-caption .e-card-sub-title  {
+  font-size: 20px;
+  font-variant: all-petite-caps;
+}
+.e-card .e-card-actions .e-card-btn  {
+  padding-left: 20px;
+  background-color: wheat;
+}
+.e-card .e-card-horizontal  {
+  margin: auto;
+  width: inherit;
+}
+.e-card .e-card-horizontal .e-card-stacked  {
+  justify-content: flex-start;
+  margin: initial;
+}
+.e-card.e-card-horizontal, .e-card .e-card-horizontal {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.e-card {
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+  background-color: #fff;
+  border: 1px none #000;
+  box-shadow: 0 2px 3px 0 rgb(0 0 0 / 16%);
+  color: rgba(0,0,0,.87);
+  outline: none;
+}
+.e-card {
+  border-radius: 2px;
+  box-sizing: border-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  font-family: "Roboto","Segoe UI","GeezaPro","DejaVu Serif","sans-serif","-apple-system","BlinkMacSystemFont";
+  font-size: 15px;
+  -ms-flex-pack: center;
+  justify-content: center;
+  line-height: 36px;
+  min-height: 36px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+  width: 100%;
+}
+.e-card.e-card-horizontal .e-card-stacked {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex: 1;
+  flex: 1;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+}
+.e-card.e-card-horizontal>* {
+  -ms-flex: 1;
+  flex: 1;
+}
+.e-card .e-card-stacked {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -ms-flex-pack: center;
+  justify-content: center;
+  overflow: hidden;
+}
+.e-card .e-card-header .e-card-header-caption:first-child {
+  padding: 0;
+}
+
+.e-card .e-card-header .e-card-header-caption {
+  -ms-flex-item-align: center;
+  align-self: center;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex: 1;
+  flex: 1;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 0 0 0 12px;
+}
+.e-card .e-card-header-caption {
+  line-height: normal;
+}
+.e-card .e-card-content {
+  color: rgba(0,0,0,.54);
+}
+.e-card .e-card-content, .e-card .e-card-content p {
+  line-height: normal;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.e-card .e-card-content {
+  font-size: 14px;
+  line-height: normal;
+  padding: 12px;
+}
+
+.blink {
+  animation: blink-animation 1s steps(5, start) infinite;
+  -webkit-animation: blink-animation 1s steps(5, start) infinite;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}

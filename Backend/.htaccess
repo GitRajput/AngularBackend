@@ -1,0 +1,18 @@
+#Turn Rewrite Engine On
+RewriteEngine On
+
+#Remove .php extension form functions.php
+RewriteRule ^functions/?$ functions.php [NC,L]
+RewriteRule ^api/?$ api.php [NC,L]
+RewriteRule ^getData/?$ getData.php [NC,L]
+RewriteRule ^createData/?$ createData.php [NC,L]
+RewriteRule ^updateData/?$ updateData.php [NC,L]
+RewriteRule ^deleteData/?$ deleteData.php [NC,L]
+
+#Rewrite URL
+RewriteRule ^functions/([0-9]+)/?$ functions.php?id=$1 [NC,L]
+RewriteRule ^api/([0-9]+)/?$ api.php?id=$1 [NC,L]
+RewriteRule ^getData/([0-9]+)/?$ getData.php?id=$1 [NC,L]
+RewriteRule ^createData/([0-9]+)/?$ createData.php?id=$1 [NC,L]
+RewriteRule ^updateData/([0-9]+)/?$ updateData.php?id=$1 [NC,L]
+RewriteRule ^deleteData/([0-9]+)/?$ deleteData.php?id=$1 [NC,L]
