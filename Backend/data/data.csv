@@ -1,6 +1,6 @@
 Id,Name,Zip,Amount,Quantity,Item
-11c99,oled,23,15000,226018,"Sony bravia"
-15d5a,tv,23,15000,342233,"Sony bravia"
-xbc29,oled,15,23000,226018,sunsumg
-x4ff1,tv,15,15000,342233,Dell
-x84f7,tv,23,15000,226018,Philips
+11c99,oled,23,15000,226,"Sony bravia"
+15d5a,tv,23,15000,3422,"Sony bravia"
+xbc29,oled,15,23000,2018,sunsumg
+x4ff1,tv,15,15000,3423,Dell
+x84f7,tv,23,15000,2218,Philips
