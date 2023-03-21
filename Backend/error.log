@@ -1221,3 +1221,41 @@ Stack trace:
 [21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'quantity' of non-object in D:\xampp\htdocs\Backend\api.php on line 353
 [21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'amount' of non-object in D:\xampp\htdocs\Backend\api.php on line 354
 [21-Mar-2023 07:27:24 Europe/Berlin] PHP Notice:  Trying to get property 'zip' of non-object in D:\xampp\htdocs\Backend\api.php on line 355
+[21-Mar-2023 09:24:02 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\api.php on line 247
+[21-Mar-2023 09:24:36 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\api.php on line 247
+[21-Mar-2023 09:24:38 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:52 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:53 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:53 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:54 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:54 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:25:54 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:26:23 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:26:24 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:26:24 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:26:24 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:04 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:05 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:06 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:06 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:06 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:06 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:07 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:07 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:07 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:07 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:29:07 Europe/Berlin] PHP Warning:  fopen(data/data.csv): failed to open stream: No such file or directory in D:\xampp\htdocs\Backend\functions.php on line 246
+[21-Mar-2023 09:58:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function TVRecord::__construct(), 1 passed in D:\xampp\htdocs\Backend\functions.php on line 417 and exactly 6 expected in D:\xampp\htdocs\Backend\functions.php:141
+Stack trace:
+#0 D:\xampp\htdocs\Backend\functions.php(417): TVRecord->__construct(NULL)
+#1 D:\xampp\htdocs\Backend\functions.php(249): {closure}(Resource id #4)
+#2 D:\xampp\htdocs\Backend\functions.php(421): open_file_context_manager(Resource id #4, 'r', Object(Closure))
+#3 D:\xampp\htdocs\Backend\functions.php(20): get_all_records()
+#4 D:\xampp\htdocs\Backend\index.php(10): include('D:\\xampp\\htdocs...')
+#5 {main}
+  thrown in D:\xampp\htdocs\Backend\functions.php on line 141

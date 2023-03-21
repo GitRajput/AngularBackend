@@ -1,820 +1,161 @@
-[2023-03-17 16:16:53]: Generated id: x5acc
-[2023-03-17 16:16:53]: Created record: TVRecord Object
+[2023-03-21 09:50:29]: Generated id: x706d
+[2023-03-21 09:50:29]: Created record: TVRecord Object
 (
-    [id] => x5acc
-    [type] => OLED
-    [brand] => samsung
-    [model] => lop
-    [size] => 123
-    [price] => 150000
-    [sale_price] => 160000
-    [description] => testing
+    [id] => x706d
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => oled
 )
 
-[2023-03-17 16:17:50]: Array
-(
-    [name] => log.txt
-    [type] => text/plain
-    [tmp_name] => D:\xampp\tmp\phpB40F.tmp
-    [error] => 0
-    [size] => 278
-)
-
-[2023-03-17 16:18:26]: Generated id: x7b66
-[2023-03-17 16:18:26]: Created record: TVRecord Object
-(
-    [id] => x7b66
-    [type] => QLED
-    [brand] => samsung oled
-    [model] => lop
-    [size] => 123
-    [price] => 150000
-    [sale_price] => 160000
-    [description] => testing
-)
-
-[2023-03-17 16:18:53]: Array
-(
-    [name] => log.txt
-    [type] => text/plain
-    [tmp_name] => D:\xampp\tmp\phpA9AB.tmp
-    [error] => 0
-    [size] => 720
-)
-
-[2023-03-17 16:19:39]: Updating record: xce40
-[2023-03-17 16:19:39]: Deleting record: xce40
-[2023-03-17 16:19:39]: Created record: TVRecord Object
-(
-    [id] => xce40
-    [type] => LCD
-    [brand] => Samsung
-    [model] => FW40R49FC
-    [size] => 40
-    [price] => 348
-    [sale_price] => 299
-    [description] => Smart TV111
-)
-
-[2023-03-17 16:20:56]: Updating record: x77a0
-[2023-03-17 16:20:56]: Deleting record: x77a0
-[2023-03-17 16:20:56]: Created record: TVRecord Object
-(
-    [id] => x77a0
-    [type] => LCD
-    [brand] => LG
-    [model] => 32S327-CA
-    [size] => 32
-    [price] => 248
-    [sale_price] => 
-    [description] => 3 HDMI-60 Hz22
-)
-
-[2023-03-17 16:21:50]: Deleting record: x2b89
-[2023-03-17 16:23:21]: Deleting record: x2b89
-[2023-03-17 16:23:21]: Record not found.
-[2023-03-17 16:23:25]: Deleting record: x2b89
-[2023-03-17 16:23:25]: Record not found.
-[2023-03-17 16:23:40]: Deleting record: x2b89
-[2023-03-17 16:23:40]: Record not found.
-[2023-03-17 16:23:40]: Deleting record: x2b89
-[2023-03-17 16:23:40]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:41]: Deleting record: x2b89
-[2023-03-17 16:23:41]: Record not found.
-[2023-03-17 16:23:42]: Deleting record: x2b89
-[2023-03-17 16:23:42]: Record not found.
-[2023-03-17 16:44:23]: Updating record: x79c7
-[2023-03-17 16:44:23]: Deleting record: x79c7
-[2023-03-17 16:44:23]: Created record: TVRecord Object
-(
-    [id] => x79c7
-    [type] => LCD
-    [brand] => LG
-    [model] => UP7100
-    [size] => 43
-    [price] => 400
-    [sale_price] => 
-    [description] => test
-)
-
-[2023-03-17 16:44:37]: Updating record: x79c7
-[2023-03-17 16:44:37]: Deleting record: x79c7
-[2023-03-17 16:44:37]: Created record: TVRecord Object
-(
-    [id] => x79c7
-    [type] => LCD
-    [brand] => LG
-    [model] => UP7100
-    [size] => 43
-    [price] => 400
-    [sale_price] => 160000
-    [description] => test2222
-)
-
-[2023-03-17 18:15:12]: Generated id: 15bbb
-[2023-03-17 18:15:12]: Created record: TVRecord Object
-(
-    [id] => 15bbb
-    [item] => tv
-    [quantity] => 0
-    [amount] => 23
-    [zip] => 1252222
-    [name] => 
-)
-
-[2023-03-17 18:17:23]: Generated id: xcca8
-[2023-03-17 18:17:23]: Created record: TVRecord Object
-(
-    [id] => xcca8
-    [item] => tv
-    [quantity] => 0
-    [amount] => 23
-    [zip] => 1252222
-    [name] => 
-)
-
-[2023-03-20 14:08:25]: Generated id: xd200
-[2023-03-20 14:08:25]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:08:25]: Generated id: 16b45
-[2023-03-20 14:08:25]: Created record: TVRecord Object
-(
-    [id] => 16b45
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:09:16]: Generated id: xefdf
-[2023-03-20 14:09:16]: Created record: TVRecord Object
-(
-    [id] => xefdf
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:09:16]: Generated id: x9d04
-[2023-03-20 14:09:16]: Created record: TVRecord Object
-(
-    [id] => x9d04
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:10:22]: Generated id: x3417
-[2023-03-20 14:10:22]: Generated id: 138f9
-[2023-03-20 14:13:12]: Generated id: 10d20
-[2023-03-20 14:13:12]: Generated id: x8e52
-[2023-03-20 14:14:17]: Generated id: 138fc
-[2023-03-20 14:14:17]: Generated id: x57f6
-[2023-03-20 14:17:06]: Generated id: xcd02
-[2023-03-20 14:17:06]: Created record: TVRecord Object
-(
-    [id] => xcd02
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:17:06]: Generated id: 140e8
-[2023-03-20 14:17:06]: Created record: TVRecord Object
-(
-    [id] => 140e8
-    [item] => OLED TV
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 25000
-    [name] => 123456
-)
-
-[2023-03-20 14:19:52]: Generated id: x4f13
-[2023-03-20 14:19:52]: Created record: TVRecord Object
-(
-    [id] => x4f13
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:19:52]: Generated id: x7fb3
-[2023-03-20 14:19:52]: Created record: TVRecord Object
-(
-    [id] => x7fb3
-    [item] => OLED TV
-    [quantity] => 0
-    [amount] => 123
-    [zip] => 23000
-    [name] => 223344
-)
-
-[2023-03-20 14:20:53]: Generated id: xd80d
-[2023-03-20 14:20:54]: Created record: TVRecord Object
-(
-    [id] => xd80d
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:20:54]: Generated id: x536e
-[2023-03-20 14:20:54]: Created record: TVRecord Object
-(
-    [id] => x536e
-    [item] => dfdg
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 243242
-    [name] => 3243
-)
-
-[2023-03-20 14:20:59]: Generated id: 11eeb
-[2023-03-20 14:20:59]: Created record: TVRecord Object
-(
-    [id] => 11eeb
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:21:51]: Generated id: 11803
-[2023-03-20 14:21:52]: Created record: TVRecord Object
-(
-    [id] => 11803
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:21:52]: Generated id: x731c
-[2023-03-20 14:21:52]: Created record: TVRecord Object
-(
-    [id] => x731c
-    [item] => dfdg
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 243242
-    [name] => 3243
-)
-
-[2023-03-20 14:24:24]: Generated id: xfd84
-[2023-03-20 14:24:24]: Generated id: x7899
-[2023-03-20 14:25:39]: Generated id: 17a74
-[2023-03-20 14:25:40]: Generated id: 13445
-[2023-03-20 14:26:39]: Generated id: 13389
-[2023-03-20 14:26:39]: Created record: TVRecord Object
-(
-    [id] => 13389
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:26:39]: Generated id: 110b4
-[2023-03-20 14:26:39]: Created record: TVRecord Object
-(
-    [id] => 110b4
-    [item] => led
-    [quantity] => 0
-    [amount] => 232
-    [zip] => 23000
-    [name] => 221234
-)
-
-[2023-03-20 14:47:18]: Updating record: 
-[2023-03-20 14:47:18]: Deleting record: 
-[2023-03-20 14:47:18]: Record not found.
-[2023-03-20 14:47:18]: Generated id: xdec4
-[2023-03-20 14:47:18]: Created record: TVRecord Object
-(
-    [id] => xdec4
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:48:47]: Updating record: 
-[2023-03-20 14:48:47]: Deleting record: 
-[2023-03-20 14:48:47]: Record not found.
-[2023-03-20 14:48:47]: Generated id: xbd4f
-[2023-03-20 14:48:47]: Created record: TVRecord Object
-(
-    [id] => xbd4f
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:48:47]: Updating record: 
-[2023-03-20 14:48:47]: Deleting record: 
-[2023-03-20 14:48:47]: Record not found.
-[2023-03-20 14:48:47]: Generated id: x7d29
-[2023-03-20 14:48:48]: Created record: TVRecord Object
-(
-    [id] => x7d29
-    [item] => LED
-    [quantity] => 0
-    [amount] => 226018
-    [zip] => 23000
-    [name] => 4322
-)
-
-[2023-03-20 14:49:29]: Updating record: x79c7
-[2023-03-20 14:49:29]: Deleting record: x79c7
-[2023-03-20 14:49:29]: Created record: TVRecord Object
-(
-    [id] => x79c7
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:49:29]: Updating record: x79c7
-[2023-03-20 14:49:29]: Deleting record: x79c7
-[2023-03-20 14:49:29]: Created record: TVRecord Object
-(
-    [id] => x79c7
-    [item] => LED
-    [quantity] => 0
-    [amount] => 226018
-    [zip] => 23000
-    [name] => 4322
-)
-
-[2023-03-20 14:50:23]: Updating record: xbd4f
-[2023-03-20 14:50:23]: Deleting record: xbd4f
-[2023-03-20 14:50:23]: Created record: TVRecord Object
-(
-    [id] => xbd4f
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:50:23]: Updating record: xbd4f
-[2023-03-20 14:50:23]: Deleting record: xbd4f
-[2023-03-20 14:50:23]: Created record: TVRecord Object
-(
-    [id] => xbd4f
-    [item] => test
-    [quantity] => 0
-    [amount] => 222
-    [zip] => 4555
-    [name] => 22909
-)
-
-[2023-03-20 14:51:43]: Updating record: 1201b
-[2023-03-20 14:51:43]: Deleting record: 1201b
-[2023-03-20 14:51:43]: Created record: TVRecord Object
-(
-    [id] => 1201b
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:51:43]: Updating record: 1201b
-[2023-03-20 14:51:43]: Deleting record: 1201b
-[2023-03-20 14:51:43]: Created record: TVRecord Object
-(
-    [id] => 1201b
-    [item] => OLED
-    [quantity] => 0
-    [amount] => 210251
-    [zip] => 140000
-    [name] => 21
-)
-
-[2023-03-20 14:53:09]: Updating record: xd200
-[2023-03-20 14:53:09]: Deleting record: xd200
-[2023-03-20 14:53:09]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:53:09]: Updating record: xd200
-[2023-03-20 14:53:09]: Deleting record: xd200
-[2023-03-20 14:53:09]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 1222
-    [quantity] => 123
-    [amount] => 12
-    [zip] => 122
-    [name] => 0122
-)
-
-[2023-03-20 14:53:21]: Updating record: xd200
-[2023-03-20 14:53:21]: Deleting record: xd200
-[2023-03-20 14:53:21]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:53:22]: Updating record: xd200
-[2023-03-20 14:53:22]: Deleting record: xd200
-[2023-03-20 14:53:22]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 1222
-    [quantity] => 123
-    [amount] => 12
-    [zip] => 122
-    [name] => 0122
-)
-
-[2023-03-20 14:53:32]: Updating record: xd200
-[2023-03-20 14:53:32]: Deleting record: xd200
-[2023-03-20 14:53:32]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:53:32]: Updating record: xd200
-[2023-03-20 14:53:32]: Deleting record: xd200
-[2023-03-20 14:53:32]: Created record: TVRecord Object
-(
-    [id] => xd200
-    [item] => 1222
-    [quantity] => 123
-    [amount] => 12
-    [zip] => 122
-    [name] => 0122
-)
-
-[2023-03-20 14:54:37]: Updating record: x79c1
-[2023-03-20 14:54:37]: Deleting record: x79c1
-[2023-03-20 14:54:37]: Created record: TVRecord Object
-(
-    [id] => x79c1
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-20 14:54:37]: Updating record: x79c1
-[2023-03-20 14:54:37]: Deleting record: x79c1
-[2023-03-20 14:54:37]: Created record: TVRecord Object
-(
-    [id] => x79c1
-    [item] => LED
-    [quantity] => 0
-    [amount] => 226018
-    [zip] => 23000
-    [name] => 43
-)
-
-[2023-03-20 15:00:37]: Deleting record: /1201h
-[2023-03-20 15:00:37]: Record not found.
-[2023-03-20 15:00:37]: Deleting record: /1201h
-[2023-03-20 15:00:37]: Record not found.
-[2023-03-20 15:00:41]: Deleting record: /1201h
-[2023-03-20 15:00:41]: Record not found.
-[2023-03-20 15:00:57]: Deleting record: /1201h
-[2023-03-20 15:00:57]: Record not found.
-[2023-03-20 15:00:57]: Deleting record: /1201h
-[2023-03-20 15:00:57]: Record not found.
-[2023-03-20 15:02:40]: Deleting record: /1201h
-[2023-03-20 15:02:40]: Record not found.
-[2023-03-20 15:02:40]: Deleting record: /1201h
-[2023-03-20 15:02:40]: Record not found.
-[2023-03-20 15:03:48]: Deleting record: /1201h
-[2023-03-20 15:03:48]: Record not found.
-[2023-03-20 15:03:48]: Deleting record: /1201h
-[2023-03-20 15:03:48]: Record not found.
-[2023-03-20 15:04:43]: Deleting record: /1201h
-[2023-03-20 15:04:43]: Record not found.
-[2023-03-20 15:04:43]: Deleting record: /1201h
-[2023-03-20 15:04:43]: Record not found.
-[2023-03-20 15:05:21]: Deleting record: /1201h
-[2023-03-20 15:05:21]: Record not found.
-[2023-03-20 15:05:21]: Deleting record: /1201h
-[2023-03-20 15:05:21]: Record not found.
-[2023-03-20 15:06:16]: Deleting record: /1201h
-[2023-03-20 15:06:16]: Record not found.
-[2023-03-20 15:06:16]: Deleting record: /1201h
-[2023-03-20 15:06:16]: Record not found.
-[2023-03-20 15:07:22]: Deleting record: /1201h
-[2023-03-20 15:07:22]: Record not found.
-[2023-03-20 15:07:22]: Deleting record: /1201h
-[2023-03-20 15:07:22]: Record not found.
-[2023-03-20 15:07:47]: Deleting record: /1201h
-[2023-03-20 15:07:47]: Record not found.
-[2023-03-20 15:07:47]: Deleting record: /1201h
-[2023-03-20 15:07:47]: Record not found.
-[2023-03-20 15:08:30]: Deleting record: /1201h
-[2023-03-20 15:08:30]: Record not found.
-[2023-03-20 15:08:30]: Deleting record: /1201h
-[2023-03-20 15:08:30]: Record not found.
-[2023-03-20 15:08:59]: Deleting record: /1201h
-[2023-03-20 15:08:59]: Record not found.
-[2023-03-20 15:08:59]: Deleting record: /1201h
-[2023-03-20 15:09:00]: Record not found.
-[2023-03-20 15:11:12]: Deleting record: /1201h
-[2023-03-20 15:11:12]: Record not found.
-[2023-03-20 15:11:12]: Deleting record: /1201h
-[2023-03-20 15:11:12]: Record not found.
-[2023-03-20 15:12:32]: Deleting record: /1201h
-[2023-03-20 15:12:32]: Record not found.
-[2023-03-20 15:12:32]: Deleting record: /1201h
-[2023-03-20 15:12:32]: Record not found.
-[2023-03-20 15:13:32]: Deleting record: /xbd4f
-[2023-03-20 15:13:32]: Record not found.
-[2023-03-20 15:13:32]: Deleting record: /xbd4f
-[2023-03-20 15:13:32]: Record not found.
-[2023-03-20 15:13:43]: Deleting record: /1201b
-[2023-03-20 15:13:43]: Record not found.
-[2023-03-20 15:13:44]: Deleting record: /1201b
-[2023-03-20 15:13:44]: Record not found.
-[2023-03-20 15:15:39]: Deleting record: /1201h
-[2023-03-20 15:15:39]: Record not found.
-[2023-03-20 15:15:39]: Deleting record: /1201h
-[2023-03-20 15:15:39]: Record not found.
-[2023-03-20 15:15:39]: Deleting record: /1201h
-[2023-03-20 15:15:39]: Record not found.
-[2023-03-20 15:15:39]: Deleting record: /1201h
-[2023-03-20 15:15:39]: Record not found.
-[2023-03-20 15:16:17]: Deleting record: /1201h
-[2023-03-20 15:16:17]: Record not found.
-[2023-03-20 15:16:17]: Deleting record: /1201h
-[2023-03-20 15:16:17]: Record not found.
-[2023-03-20 15:21:09]: Deleting record: /1201h
-[2023-03-20 15:21:09]: Record not found.
-[2023-03-20 15:21:09]: Deleting record: /1201h
-[2023-03-20 15:21:09]: Record not found.
-[2023-03-20 15:21:23]: Deleting record: /x731c
-[2023-03-20 15:21:23]: Record not found.
-[2023-03-20 15:21:23]: Deleting record: /x731c
-[2023-03-20 15:21:23]: Record not found.
-[2023-03-20 15:21:53]: Deleting record: /11eeb
-[2023-03-20 15:21:53]: Record not found.
-[2023-03-20 15:21:53]: Deleting record: /11eeb
-[2023-03-20 15:21:53]: Record not found.
-[2023-03-20 15:22:46]: Deleting record: x79c2
-[2023-03-20 15:22:47]: Deleting record: x79c2
-[2023-03-20 15:22:47]: Record not found.
-[2023-03-20 15:22:59]: Deleting record: 16b45
-[2023-03-20 15:22:59]: Deleting record: 16b45
-[2023-03-20 15:22:59]: Record not found.
-[2023-03-20 15:23:36]: Deleting record: xdec4
-[2023-03-20 15:23:36]: Deleting record: xdec4
-[2023-03-20 15:23:36]: Record not found.
-[2023-03-20 15:24:21]: Deleting record: 11803
-[2023-03-20 15:24:21]: Deleting record: 11803
-[2023-03-20 15:24:55]: Deleting record: xdec4
-[2023-03-20 15:24:55]: Deleting record: xdec4
-[2023-03-20 15:25:34]: Deleting record: xdec4
-[2023-03-20 15:25:34]: Record not found.
-[2023-03-20 15:25:34]: Deleting record: xdec4
-[2023-03-20 15:25:34]: Record not found.
-[2023-03-20 15:25:37]: Deleting record: xdec4
-[2023-03-20 15:25:37]: Record not found.
-[2023-03-20 15:25:57]: Deleting record: xdec4
-[2023-03-20 15:25:57]: Record not found.
-[2023-03-20 15:25:58]: Deleting record: xdec4
-[2023-03-20 15:25:58]: Record not found.
-[2023-03-20 15:26:46]: Deleting record: 13389
-[2023-03-20 15:26:46]: Deleting record: 13389
-[2023-03-20 15:27:08]: Deleting record: 13389
-[2023-03-20 15:28:02]: Deleting record: xefdf
-[2023-03-20 15:28:03]: Deleting record: xefdf
-[2023-03-20 15:28:03]: Deleting record: xefdf
-[2023-03-20 15:31:17]: Deleting record: x79c1
-[2023-03-20 15:31:17]: Record not found.
-[2023-03-20 15:31:17]: Deleting record: x79c1
-[2023-03-20 15:31:17]: Deleting record: x79c1
-[2023-03-20 15:31:17]: Record not found.
-[2023-03-20 15:31:17]: Deleting record: x79c1
-[2023-03-20 15:31:17]: Record not found.
-[2023-03-20 15:31:54]: Deleting record: xd200
-[2023-03-20 15:31:54]: Record not found.
-[2023-03-20 15:31:54]: Deleting record: xd200
-[2023-03-20 15:31:55]: Record not found.
-d200
-[2023-03-20 15:31:55]: Record not found.
-[2023-03-20 15:32:09]: Deleting record: xd200
-[2023-03-20 15:32:09]: Record not found.
-[2023-03-20 15:32:09]: Deleting record: xd200
-[2023-03-20 15:32:09]: Record not found.
-[2023-03-20 15:32:09]: Deleting record: xd200
-[2023-03-20 15:32:09]: Record not found.
-[2023-03-20 15:33:34]: Deleting record: xd200
-[2023-03-20 15:33:34]: Deleting record: xd200
-[2023-03-20 15:33:34]: Record not found.
-[2023-03-20 15:34:27]: Deleting record: 11eeb
-[2023-03-20 15:34:27]: Deleting record: 11eeb
-[2023-03-20 15:34:27]: Record not found.
-[2023-03-20 15:34:27]: Deleting record: 11eeb
-[2023-03-20 15:34:27]: Record not found.
-[2023-03-21 06:40:32]: Generated id: xc923
-[2023-03-21 06:40:33]: Created record: TVRecord Object
-(
-    [id] => xc923
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-21 06:40:42]: Updating record: 
-[2023-03-21 06:40:42]: Deleting record: 
-[2023-03-21 06:40:42]: Record not found.
-[2023-03-21 06:40:42]: Generated id: x7447
-[2023-03-21 06:40:42]: Created record: TVRecord Object
-(
-    [id] => x7447
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-21 06:50:13]: Updating record: 1201h
-[2023-03-21 06:50:13]: Deleting record: 1201h
-[2023-03-21 06:50:13]: Created record: TVRecord Object
-(
-    [id] => 1201h
-    [item] => OLED
-    [quantity] => 210251
-    [amount] => 21
-    [zip] => 0
-    [name] => 140000
-)
-
-[2023-03-21 06:50:45]: Updating record: x7447
-[2023-03-21 06:50:45]: Deleting record: x7447
-[2023-03-21 06:50:45]: Created record: TVRecord Object
-(
-    [id] => x7447
-    [item] => oled
-    [quantity] => 0
-    [amount] => 23
-    [zip] => 15000
-    [name] => 342233
-)
-
-[2023-03-21 06:52:06]: Updating record: x7447
-[2023-03-21 06:52:06]: Deleting record: x7447
-[2023-03-21 06:52:06]: Created record: TVRecord Object
-(
-    [id] => x7447
-    [item] => oled
-    [quantity] => 0
-    [amount] => 15
-    [zip] => 23000
-    [name] => 226018
-)
-
-[2023-03-21 07:24:33]: Deleting record: x9d04
-[2023-03-21 07:24:40]: Deleting record: xcd02
-[2023-03-21 07:24:53]: Deleting record: xcd02
-[2023-03-21 07:24:53]: Record not found.
-[2023-03-21 07:26:22]: Generated id: 16671
-[2023-03-21 07:26:22]: Created record: TVRecord Object
-(
-    [id] => 16671
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-21 07:26:22]: Generated id: xeda4
-[2023-03-21 07:26:22]: Created record: TVRecord Object
+[2023-03-21 09:51:05]: Updating record: xeda4
+[2023-03-21 09:51:05]: Deleting record: xeda4
+[2023-03-21 09:51:05]: Created record: TVRecord Object
 (
     [id] => xeda4
-    [item] => oled tv
-    [quantity] => 0
-    [amount] => 12
-    [zip] => 200000
-    [name] => 22134
+    [item] => Sony bravia
+    [quantity] => 342233
+    [amount] => 200000
+    [zip] => 12
+    [name] => oled
 )
 
-[2023-03-21 07:26:26]: Generated id: x3233
-[2023-03-21 07:26:26]: Created record: TVRecord Object
+[2023-03-21 09:53:48]: Generated id: xb62f
+[2023-03-21 09:53:48]: Created record: TVRecord Object
 (
-    [id] => x3233
-    [item] => oled tv
-    [quantity] => 0
-    [amount] => 12
-    [zip] => 200000
-    [name] => 22134
+    [id] => xb62f
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => oled
 )
 
-[2023-03-21 07:27:24]: Updating record: xeda4
-[2023-03-21 07:27:24]: Updating record: xeda4
-[2023-03-21 07:27:24]: Deleting record: xeda4
-[2023-03-21 07:27:24]: Deleting record: xeda4
-[2023-03-21 07:27:25]: Created record: TVRecord Object
+[2023-03-21 09:54:46]: Generated id: xcff4
+[2023-03-21 09:54:46]: Created record: TVRecord Object
+(
+    [id] => xcff4
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => tv
+)
+
+[2023-03-21 09:54:56]: Generated id: 16534
+[2023-03-21 09:54:56]: Created record: TVRecord Object
+(
+    [id] => 16534
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => tv
+)
+
+[2023-03-21 09:55:12]: Updating record: xeda4
+[2023-03-21 09:55:12]: Deleting record: xeda4
+[2023-03-21 09:55:12]: Created record: TVRecord Object
 (
     [id] => xeda4
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
-)
-
-[2023-03-21 07:27:25]: Updating record: xeda4
-[2023-03-21 07:27:25]: Deleting record: xeda4
-[2023-03-21 07:27:25]: Created record: TVRecord Object
-(
-    [id] => xeda4
-    [item] => oled tv
+    [item] => SONy
     [quantity] => 0
     [amount] => 200000
     [zip] => 12
-    [name] => 23455
+    [name] => oled tv
 )
 
-[2023-03-21 07:27:25]: Created record: TVRecord Object
+[2023-03-21 09:59:33]: Generated id: 10de1
+[2023-03-21 09:59:33]: Created record: TVRecord Object
 (
-    [id] => xeda4
-    [item] => 
-    [quantity] => 0
-    [amount] => 0
-    [zip] => 
-    [name] => 
+    [id] => 10de1
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => oled
 )
 
-[2023-03-21 07:27:25]: Updating record: xeda4
-[2023-03-21 07:27:25]: Deleting record: xeda4
-[2023-03-21 07:27:25]: Created record: TVRecord Object
+[2023-03-21 10:02:23]: Updating record: x4da4
+[2023-03-21 10:02:23]: Deleting record: x4da4
+[2023-03-21 10:02:23]: Created record: TVRecord Object
 (
-    [id] => xeda4
-    [item] => oled tv
-    [quantity] => 0
+    [id] => x4da4
+    [item] => SAMSUNG
+    [quantity] => 226018
     [amount] => 200000
     [zip] => 12
-    [name] => 23455
+    [name] => oled
+)
+
+[2023-03-21 10:03:33]: Deleting record: xeda4
+[2023-03-21 10:03:55]: Deleting record: 10de1
+[2023-03-21 10:03:59]: Deleting record: x4da4
+[2023-03-21 10:04:13]: Generated id: 11c99
+[2023-03-21 10:04:13]: Created record: TVRecord Object
+(
+    [id] => 11c99
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => oled
+)
+
+[2023-03-21 10:04:58]: Updating record: 11c99
+[2023-03-21 10:04:58]: Deleting record: 11c99
+[2023-03-21 10:04:58]: Created record: TVRecord Object
+(
+    [id] => 11c99
+    [item] => Sony bravia
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => oled
+)
+
+[2023-03-21 10:05:16]: Generated id: 15d5a
+[2023-03-21 10:05:16]: Created record: TVRecord Object
+(
+    [id] => 15d5a
+    [item] => Sony bravia
+    [quantity] => 342233
+    [amount] => 15000
+    [zip] => 23
+    [name] => tv
+)
+
+[2023-03-21 10:05:30]: Generated id: xbc29
+[2023-03-21 10:05:30]: Created record: TVRecord Object
+(
+    [id] => xbc29
+    [item] => sunsumg
+    [quantity] => 226018
+    [amount] => 23000
+    [zip] => 15
+    [name] => oled
+)
+
+[2023-03-21 10:05:40]: Generated id: x4ff1
+[2023-03-21 10:05:40]: Created record: TVRecord Object
+(
+    [id] => x4ff1
+    [item] => Dell
+    [quantity] => 342233
+    [amount] => 15000
+    [zip] => 15
+    [name] => tv
+)
+
+[2023-03-21 10:06:06]: Generated id: x84f7
+[2023-03-21 10:06:07]: Created record: TVRecord Object
+(
+    [id] => x84f7
+    [item] => Philips
+    [quantity] => 226018
+    [amount] => 15000
+    [zip] => 23
+    [name] => 
 )
 

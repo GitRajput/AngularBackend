@@ -44,8 +44,8 @@
                 <label for="quantity">Quantity:</label>
                 <input type="text" name="quantity" id="quantity" pattern="^\d+(\.\d+)?$" required/>
                 <br><br>
-                <label for="price">Price:</label>
-                <input type="text" name="price" id="price" pattern="^\d+(\.\d+)?$" required/>
+                <label for="price">Zip:</label>
+                <input type="text" name="zip" id="zip" pattern="^\d+(\.\d+)?$" required/>
                 <br><br>
                 <label for="item">Item:</label>
                 <input type="text" name="item" id="item"/>

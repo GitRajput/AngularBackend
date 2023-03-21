@@ -12,7 +12,7 @@
     define("FILE_MODE_WRITE_APPEND", "a");
     define("FILE_MODE_READWRITE_APPEND", "a+");
 
-    define("RECORD_CSV_HEADER", ["Id","Type","Brand","Model","Size","Price","Sale","Desc"]);
+     define("RECORD_CSV_HEADER", ["Id","Name","Zip","Amount","Quantity","Item"]);
     //id : TVRecord
     //This is essentially a runtime map of TVRecord objects.
     $records = array();
@@ -66,7 +66,7 @@
         //Checks pass, let's accept the file
         move_uploaded_file(
             $_FILES["newrecords"]["tmp_name"],
-            "./data/tvs.csv"
+            "./data/data.csv"
         );
 
         //Reload the page w/ new file
@@ -276,7 +276,7 @@
     {
         //First check if the record already exists
         open_file_context_manager(
-            "data/tvs.csv", FILE_MODE_WRITE_APPEND,
+            "data/data.csv", FILE_MODE_WRITE_APPEND,
             function($file) use ($record) {
                 fputcsv(
                     $file,
@@ -378,7 +378,7 @@
     function get_all_records()
     {
         return open_file_context_manager(
-            "data/tvs.csv", FILE_MODE_READ,
+            "data/data.csv", FILE_MODE_READ,
             function($file) {
                 $data = array();
 
@@ -470,7 +470,7 @@
 
         //Delete the record by rewriting the file
         open_file_context_manager(
-            "data/tvs.csv", FILE_MODE_WRITE,
+            "data/data.csv", FILE_MODE_WRITE,
             function($file) use ($records) {
                 //Add columns
                 fputcsv($file, RECORD_CSV_HEADER);
